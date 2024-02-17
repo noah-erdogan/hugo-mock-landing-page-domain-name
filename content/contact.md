@@ -8,4 +8,6 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.
+Check out my [Github](https://github.com/noah-erdogan).
+
+Email me at noahe@sas.upenn.edu or noaherdogan1@gmail.com
