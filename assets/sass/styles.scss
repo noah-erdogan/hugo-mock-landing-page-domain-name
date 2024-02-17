@@ -14,6 +14,15 @@
     --bd-green-rgb: 0,128,0; /* Green RGB, a darker shade for better visibility */
     --bd-black-rgb: 0,0,0; /* Black RGB */
     --bd-blue-rgb: 0,0,255; /* Adding Blue RGB */
+    --sunset-orange: #FFA07A; /* Light Salmon */
+    --sunset-red: #FF4500; /* OrangeRed */
+    --sunset-purple: #6A5ACD; /* SlateBlue */
+    --sunset-dark: #330033; /* Dark purple to represent the night sky */
+    --sunset-orange-rgb: 255, 165, 0; /* Orange */
+    --sunset-red-rgb: 255, 69, 0; /* Red */
+    --sunset-yellow-rgb: 255, 223, 0; /* Yellow */
+    --sunset-purple-rgb: 128, 0, 128; /* Purple */
+    --sunset-pink-rgb: 255, 105, 180; /* Pink */
 
 
     // .bd-masthead {
@@ -32,14 +41,23 @@
     //         radial-gradient(ellipse at center right, rgba(var(--bd-red-rgb), 0.5), transparent 50%),
     //         radial-gradient(ellipse at center left, rgba(var(--bd-green-rgb), 0.5), transparent 50%);
     // }
+    // .bd-masthead {
+    //     padding: 3rem 0;
+    //     background-image: 
+    //         linear-gradient(180deg, rgba(var(--bd-green-rgb), 0.2), rgba(255,255,255, 1) 85%),
+    //         radial-gradient(ellipse at top left, rgba(var(--bd-blue-rgb), 0.7), transparent 50%),
+    //         radial-gradient(ellipse at top right, rgba(var(--bd-accent-rgb), 0.7), transparent 50%),
+    //         radial-gradient(ellipse at center right, rgba(var(--bd-violet-rgb), 0.7), transparent 50%),
+    //         radial-gradient(ellipse at center left, rgba(var(--bd-pink-rgb), 0.7), transparent 50%);
+    // }
     .bd-masthead {
         padding: 3rem 0;
         background-image: 
-            linear-gradient(180deg, rgba(var(--bd-green-rgb), 0.2), rgba(255,255,255, 1) 85%),
-            radial-gradient(ellipse at top left, rgba(var(--bd-blue-rgb), 0.7), transparent 50%),
-            radial-gradient(ellipse at top right, rgba(var(--bd-accent-rgb), 0.7), transparent 50%),
-            radial-gradient(ellipse at center right, rgba(var(--bd-violet-rgb), 0.7), transparent 50%),
-            radial-gradient(ellipse at center left, rgba(var(--bd-pink-rgb), 0.7), transparent 50%);
+            linear-gradient(180deg, rgba(var(--sunset-orange-rgb), 0.2), rgba(255,255,255, 1) 85%), /* Base gradient from light sunset orange to white */
+            radial-gradient(ellipse at top left, rgba(var(--sunset-red-rgb), 0.7), transparent 50%), /* Reddish hue for intense sunset part */
+            radial-gradient(ellipse at top right, rgba(var(--sunset-yellow-rgb), 0.7), transparent 50%), /* Soft yellow for a fading sunlight effect */
+            radial-gradient(ellipse at center right, rgba(var(--sunset-purple-rgb), 0.7), transparent 50%), /* Deep purple for the transition to night */
+            radial-gradient(ellipse at center left, rgba(var(--sunset-pink-rgb), 0.7), transparent 50%); /* Soft pink for a part of the sunset sky */
     }
 
     .btn-bd-primary {
@@ -61,12 +79,19 @@
 .navbar {
     @extend .navbar-dark;
 
-    --bd-violet-rgb: 112.520718,44.062154,249.437846;
+    --sunset-orange-rgb: 255, 140, 0;  /* Deep sunset orange */
+    --sunset-red-rgb: 255, 69, 0;      /* Rich sunset red */
     
     padding: .75rem 0;
     background-color: transparent;
-    background-image: linear-gradient(to bottom, rgba(var(--bd-violet-rgb), 1), rgba(var(--bd-violet-rgb), 0.95));
-    box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15),inset 0 -1px 0 rgba(0,0,0,0.15);
+    background-image: linear-gradient(to bottom, rgba(var(--sunset-orange-rgb), 0.8), rgba(var(--sunset-red-rgb), 0.6));
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15), inset 0 -1px 0 rgba(0,0,0,0.1);
+
+    color: #000000; /* Keeping navbar text color as black for contrast */
+
+    a, .navbar-brand, .navbar-nav .nav-link {
+        color: inherit; /* Text elements inherit the black color for readability */
+    }
 }
 
 .text-violet {
