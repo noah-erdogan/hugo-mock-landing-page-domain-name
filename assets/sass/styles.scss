@@ -62,17 +62,17 @@
 
     .btn-bd-primary {
         --bs-btn-font-weight: 600;
-        --bs-btn-color: var(--bs-white);
-        --bs-btn-bg: var(--bd-violet);
-        --bs-btn-border-color: var(--bd-violet);
+        --bs-btn-color: #000000; /* Set button text color to black */
+        --bs-btn-bg: var(--sunset-orange); /* Using the sunset orange as the primary button color */
+        --bs-btn-border-color: var(--sunset-orange);
         --bs-btn-border-radius: .5rem;
-        --bs-btn-hover-color: var(--bs-white);
-        --bs-btn-hover-bg: #6528e0;
-        --bs-btn-hover-border-color: #6528e0;
-        --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
-        --bs-btn-active-color: var(--bs-btn-hover-color);
-        --bs-btn-active-bg: #5a23c8;
-        --bs-btn-active-border-color: #5a23c8;
+        --bs-btn-hover-color: #ffffff;
+        --bs-btn-hover-bg: var(--sunset-red); /* Darker shade for the hover state, using sunset red */
+        --bs-btn-hover-border-color: var(--sunset-red);
+        --bs-btn-focus-shadow-rgb: 255, 140, 0; /* Soft shadow for focus state, using RGB format of sunset orange */
+        --bs-btn-active-color: #ffffff;
+        --bs-btn-active-bg: darken(var(--sunset-red), 10%); /* Even darker for the active state, darkening the sunset red */
+        --bs-btn-active-border-color: darken(var(--sunset-red), 10%);
     }
 }
 
