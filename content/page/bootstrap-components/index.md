@@ -1,6 +1,6 @@
 ---
-title: "Bootstrap Components ✨"
-description: "Bootstrap is bundled with tens of components that can be reused to provide a good user experience and user interactions in a web page."
+title: "Noteworthy Publications in Quantum Encryption"
+description: ""
 draft: false
 tags: ["Featured"]
 images: ["bootstrap-v5-new-logo.png","hugo-bootstrap-banner.png"]

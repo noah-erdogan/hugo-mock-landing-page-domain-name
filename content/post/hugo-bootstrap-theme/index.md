@@ -1,5 +1,5 @@
 ---
-title: "Hugo Bootstrap Theme alpha"
+title: "The Case for Quantum Encryption"
 description: "Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5."
 date: 2022-05-22T13:35:02+01:00
 draft: false
@@ -16,9 +16,9 @@ aliases:
 
 Open-source MIT Licensed Hugo Theme, using Bootstrap 5.
 
-- 🛡️ Security aware
+- 🛡️ Quantum Key Distribution
 
-  Get A+ scores on Mozilla Observatory out of the box. Easily change the default Security Headers to suit your needs.
+  Employs quantum mechanics to securely distribute encryption keys, ensuring ultimate security in communication channels.
 
 - ⚡ Fast by default
 

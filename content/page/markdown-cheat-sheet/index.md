@@ -1,5 +1,5 @@
 ---
-title: "Markdown Cheat Sheet Ⓜ️⬇️"
+title: "Our Mission"
 description: "An overview of basic markdown syntax."
 draft: false
 tags: ["Featured"]

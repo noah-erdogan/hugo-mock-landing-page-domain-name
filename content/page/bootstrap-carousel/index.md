@@ -1,5 +1,5 @@
 ---
-title: "Bootstrap Carousel 🎠"
+title: "User Testimonies"
 description: "Bootstrap is bundled with tens of components that can be reused to provide a good user experience and user interactions in a web page."
 draft: false
 tags: ["Featured"]
