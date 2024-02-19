@@ -1,6 +1,6 @@
 ---
 title: "The Case for Quantum Encryption"
-description: "Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5."
+description: "The Case for Quantum Encryption"
 date: 2022-05-22T13:35:02+01:00
 draft: false
 images: ["site-feature-image.png"]
@@ -12,20 +12,22 @@ aliases:
   - hugo-bootstrap-theme-alpha
 ---
 
-> Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5.
+> The future is here already. Don't be left behind on the wrong side of technological history. Join the future, the quantum future, with Qubit Shield. 
 
-Open-source MIT Licensed Hugo Theme, using Bootstrap 5.
+-  **The Quantum Problem And Our Quantum Solution**
 
-- 🛡️ Quantum Key Distribution
+  Quantum Computers pose a serious threat to cyber security in the coming decade. Quantum computers can easily break classical encryption keys with relatively simple quantum algorithms, and this has been proven in multiple research papers as well as in practice. The only way to protect ourselves from this threat is by also exploiting quantum technology, utilizing true randomness of keys that are inherent to quantum processes as well as quantum key distributions to encrypt many forms of personal and corporate data.
 
-  Employs quantum mechanics to securely distribute encryption keys, ensuring ultimate security in communication channels.
+- **Quantum Randomness**
 
-- ⚡ Fast by default
+  Dive into the heart of unpredictability with Quantum Randomness, where the inherent indeterminacy of quantum mechanics unleashes the ultimate source of true randomness. Qubit Shield leverages this uncrackable cipher from the quantum realm to forge encryption keys so secure, they redefine digital security. Step into the future with us, where your data's safety is not just a promise but a quantum certainty.
 
-  Get 100 scores on Google Lighthouse by default. Hugo Bootstrap Theme removes unused css, prefetches links, and lazy loads images.
+- **Quantum Key Distribution**
 
-- 📈 SEO-ready
+Quantum Key Distribution taps into the principles of quantum mechanics to create a secure communication channel, where encryption keys are fundamentally protected by the laws of physics. With QKD, any intrusion attempt disrupts the quantum state, making unauthorized interception detectable and ensuring unparalleled security. Embrace QKD with us, where your communications are shielded by the most advanced guard of privacy: the quantum realm itself.
 
-  Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the Search Engine Optimization settings to your liking.
+- **From Theory to Practice**
 
-Check the [GitHub repository](https://github.com/filipecarneiro/hugo-bootstrap-theme) for the release notes.
+Building on the foundation of Quantum Randomness and Quantum Key Distribution, Qubit Shield offers a suite of advanced quantum encryption services designed to secure the digital frontier: from Quantum Random Number Generators that fuel our encryption algorithms with pure unpredictability, to Quantum-Secure Communication Platforms that ensure your data remains confidential across any network, to Quantum VPNs that enhance internet data security. Step into a realm where every byte is shielded by quantum innovation, making your information not just secure, but quantum secure.
+
+
