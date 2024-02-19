@@ -1,13 +1,13 @@
 ---
 title: "The Case for Quantum Encryption"
-description: "The Case for Quantum Encryption"
-date: 2022-05-22T13:35:02+01:00
+description: "Read about Qubit Shield's case for the necessary future of quantum security."
+date: 2024-02-18T13:35:02+01:00
 draft: false
 images: ["site-feature-image.png"]
 categories: ["Hugo Bootstrap Theme"]
 tags: ["Hugo","Bootstrap","Featured"]
 keywords: ["hugo bootstrap theme"]
-authors: ["Filipe Carneiro"]
+authors: ["Noah Erdogan"]
 aliases:
   - hugo-bootstrap-theme-alpha
 ---
