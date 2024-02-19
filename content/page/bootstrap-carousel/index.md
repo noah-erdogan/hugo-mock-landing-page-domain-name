@@ -7,16 +7,19 @@ images: ["bootstrap-v5-new-logo.png"]
 keywords: ["bootstrap carousel","bootstrap","hugo bootstrap theme"]
 ---
 
-# Bootstrap Carousel
+# User Testimonies
 
-A slideshow component for cycling through elements—images or slides of text — like a carousel.
+> See how some of our users utilize and value our products and services!
 
-<br>
+-  **Sharon (32), Entrepeneur From San Diego, CA**
 
-<div class="w-50 mx-auto">
-    {{< carousel imagesPattern="carousel/*.png" aspectRatio="3/2" crossFade=false withIndicators=true withControls=true >}}
-</div>
+  I'm a serial entrepeneur, and I rely heavily on Qubit Shield to future-proof my whole tech stack and data pipeline with its encryption technologies based on Quantum Key Distribution. I understand the threat of quantum cyber hacking in the near future, and I want my start-ups to be immune to this upcoming epidemic. I also appreciate the regular audits on my data security that give updates on potential new vulnerabilities to future attacks. 
 
-<br>
+- **George (19), Crypto Trader**
 
-See [Carousel documentation](https://getbootstrap.com/docs/5.3/components/carousel/).
+I invest my mother's life savings in crypto. Upon hearing about the decrypting abilities of quantum algorithms, I became terrified that a malicious actor may hack my digital asset wallet using quantum computing, especially since crypto is relatively unregulated. For this reason, I signed up for Qubit Shield's regular audits on my data security that gives me updates on potential new vulnerabilities to quantum attacks. I will soon encrypt my crypto data in Qubit Shield's Data Vault.
+
+
+
+
+
