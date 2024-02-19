@@ -7,13 +7,13 @@ images: ["bootstrap-v5-new-logo.png","hugo-bootstrap-banner.png"]
 keywords: ["bootstrap components","bootstrap","hugo bootstrap theme"]
 ---
 
-# Bootstrap Components
+# Major Publications in Quantum Encryption
 
-Bootstrap is bundled with tens of components that can be reused to provide a good user experience and user interactions in a web page.
+Many noteworthy discoveries have been made in the world of academia relating quantum encryption and security in recent years. Delve into some of the landmark papers in this field to understand the future of quantum security, and you will see that Qubit Shield is ahead of the curve.
 
 ---
 
-## Accordion
+## Quantum Communication
 
 <br>
 
@@ -58,11 +58,11 @@ Bootstrap is bundled with tens of components that can be reused to provide a goo
 
 <br>
 
-See [Accordion documentation](https://getbootstrap.com/docs/5.3/components/accordion/).
+See a major publication on [Quantum Communication](https://www.mdpi.com/2410-387X/4/1/7).
 
 ---
 
-## Alert
+## Quantum Key Distribution and Quantum Internet
 
 <br>
 
@@ -93,11 +93,11 @@ See [Accordion documentation](https://getbootstrap.com/docs/5.3/components/accor
 
 <br>
 
-See [Alert documentation](https://getbootstrap.com/docs/5.3/components/alerts/).
+Read about a breakthrough in [Quantum Key Distribution and the Quantum Internet](https://ieeexplore.ieee.org/document/9489416).
 
 ---
 
-## Badge
+## Quantum Security Threats
 
 <br>
 
@@ -112,13 +112,7 @@ See [Alert documentation](https://getbootstrap.com/docs/5.3/components/alerts/).
 <br>
 <br>
 
-<button type="button" class="btn btn-primary position-relative">
-  Positioned
-  <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
-    99+
-    <span class="visually-hidden">unread messages</span>
-  </span>
-</button>
+
 
 <br>
 <br>
@@ -133,110 +127,10 @@ See [Alert documentation](https://getbootstrap.com/docs/5.3/components/alerts/).
 <br>
 <br>
 
-<span class="badge rounded-pill text-bg-success">Rounded pill</span>
+
 
 <br>
 
-See [Badge documentation](https://getbootstrap.com/docs/5.3/components/badge/).
+Explore the potentially frightening future of [Quantum Hacking](https://www.nature.com/articles/d41586-022-00339-5).
 
 ---
-
-## Button
-
-<br>
-
-<button type="button" class="btn btn-primary">Primary</button>
-<button type="button" class="btn btn-secondary">Secondary</button>
-<button type="button" class="btn btn-success">Success</button>
-<button type="button" class="btn btn-danger">Danger</button>
-<button type="button" class="btn btn-warning">Warning</button>
-<button type="button" class="btn btn-info">Info</button>
-<button type="button" class="btn btn-light">Light</button>
-<button type="button" class="btn btn-dark">Dark</button>
-
-<button type="button" class="btn btn-link">Link</button>
-
-<br>
-
-See [Button documentation](https://getbootstrap.com/docs/5.3/components/buttons/).
-
----
-
-## Card
-
-<br>
-
-<div class="card w-50">
-  <img src="picsum-photo-300x200.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#card" class="btn btn-primary">Go somewhere</a>
-  </div>
-</div>
-
-<br>
-
-See [Card documentation](https://getbootstrap.com/docs/5.3/components/card/).
-
----
-
-## List group
-
-<br>
-
-<ul class="list-group">
-  <li class="list-group-item">An item</li>
-  <li class="list-group-item">A second item</li>
-  <li class="list-group-item">A third item</li>
-  <li class="list-group-item">A fourth item</li>
-  <li class="list-group-item">And a fifth one</li>
-</ul>
-
-<br>
-
-See [List group documentation](https://getbootstrap.com/docs/5.3/components/list-group/).
-
----
-
-### Creating your own
-
-Read the [customize components page](https://getbootstrap.com/docs/5.3/customize/components/) to learn how build your own components.
-
----
-
-## Callout
-
-<br>
-
-<div class="callout">
-    <strong>This is a callout.</strong> We built it custom for our docs so our messages to you stand out. It has three variants via modifier classes.
-</div>
-
-<div class="callout callout-info">
-    <strong>This is an info callout.</strong> Example text to show it in action.
-</div>
-
-<div class="callout callout-warning">
-    <strong>This is a warning callout.</strong> Example text to show it in action.
-</div>
-
-<div class="callout callout-danger">
-    <strong>This is a danger callout.</strong> Example text to show it in action.
-</div>
-
-<br>
-
----
-
-## Tooltip
-
-<br>
-
-<div class="tooltip">
-  <p class="">
-  Placeholder text to demonstrate some <a href="#" data-bs-toggle="tooltip" data-bs-title="Default tooltip">inline links</a> with tooltips. This is now just filler, no killer. Content placed here just to mimic the presence of <a href="#" data-bs-toggle="tooltip" data-bs-title="Another tooltip">real text</a>. And all that just to give you an idea of how tooltips would look when used in real-world situations. So hopefully you've now seen how <a href="#" data-bs-toggle="tooltip" data-bs-title="Another one here too">these tooltips on links</a> can work in practice, once you use them on <a href="#" data-bs-toggle="tooltip" data-placement="bottom" data-bs-title="The last tip!">your own</a> site or project.
-  </p>
-</div>
-
-<br>
