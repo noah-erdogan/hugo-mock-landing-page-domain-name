@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qubit Shield</title>
+    <link>https://noah-erdogan.github.io/hugo-mock-landing-page/</link>
+    <description>Recent content on Qubit Shield</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Noah Erdogan</copyright>
+    <lastBuildDate>Tue, 20 Feb 2024 00:18:53 -0500</lastBuildDate>
+    <atom:link href="https://noah-erdogan.github.io/hugo-mock-landing-page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Case for Quantum Encryption</title>
+      <link>https://noah-erdogan.github.io/hugo-mock-landing-page/post/case-for-quantum/</link>
+      <pubDate>Sun, 18 Feb 2024 13:35:02 +0100</pubDate>
+      <guid>https://noah-erdogan.github.io/hugo-mock-landing-page/post/case-for-quantum/</guid>
+      <description>The future is here already. Don&amp;rsquo;t be left behind on the wrong side of technological history. Join the future, the quantum future, with Qubit Shield.&#xA;The Quantum Problem And Our Quantum Solution Quantum Computers pose a serious threat to cyber security in the coming decade. Quantum computers can easily break classical encryption keys with relatively simple quantum algorithms, and this has been proven in multiple research papers as well as in practice.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://noah-erdogan.github.io/hugo-mock-landing-page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://noah-erdogan.github.io/hugo-mock-landing-page/about/</guid>
+      <description>About Us Made with ❤️ by the Hugo Bootstrap Theme team.</description>
+    </item>
+    <item>
+      <title>Code of Conduct</title>
+      <link>https://noah-erdogan.github.io/hugo-mock-landing-page/code-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://noah-erdogan.github.io/hugo-mock-landing-page/code-of-conduct/</guid>
+      <description>Contributor Covenant Code of Conduct Our Pledge We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.&#xA;We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://noah-erdogan.github.io/hugo-mock-landing-page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://noah-erdogan.github.io/hugo-mock-landing-page/contact/</guid>
+      <description>Contact Check out my Github.&#xA;Email me at noahe@sas.upenn.edu or noaherdogan1@gmail.com</description>
+    </item>
+    <item>
+      <title>Noteworthy Publications in Quantum Encryption</title>
+      <link>https://noah-erdogan.github.io/hugo-mock-landing-page/page/featured_publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://noah-erdogan.github.io/hugo-mock-landing-page/page/featured_publications/</guid>
+      <description>Major Publications in Quantum Encryption Many noteworthy discoveries have been made in the world of academia relating quantum encryption and security in recent years. Delve into some of the landmark papers in this field to understand the future of quantum security, and you will see that Qubit Shield is ahead of the curve.&#xA;Quantum Communication See a major publication on Quantum Communication.&#xA;Quantum Key Distribution and Quantum Internet Read about a breakthrough in Quantum Key Distribution and the Quantum Internet.</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://noah-erdogan.github.io/hugo-mock-landing-page/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://noah-erdogan.github.io/hugo-mock-landing-page/privacy-policy/</guid>
+      <description>Privacy Policy TLDR: We do not use cookies and we do not collect any personal data.&#xA;Website visitors No personal information is collected. No information is stored in the browser. No information is shared with, sent to or sold to third-parties. No information is shared with advertising companies. No information is mined and harvested for personal and behavioral trends. No information is monetized. Information we collect and what we use it for The server hosting this site can collect the following information:</description>
+    </item>
+    <item>
+      <title>Sobre</title>
+      <link>https://noah-erdogan.github.io/hugo-mock-landing-page/about.pt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://noah-erdogan.github.io/hugo-mock-landing-page/about.pt/</guid>
+      <description>Sobre nós Feito com ❤️ pela equipa Hugo Bootstrap Theme.</description>
+    </item>
+    <item>
+      <title>User Testimonials</title>
+      <link>https://noah-erdogan.github.io/hugo-mock-landing-page/page/user-testimonials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://noah-erdogan.github.io/hugo-mock-landing-page/page/user-testimonials/</guid>
+      <description>User Testimonials See how some of our users utilize and value our products and services!&#xA;Sharon (32), Entrepeneur From San Diego, CA I&amp;rsquo;m a serial entrepeneur, and I rely heavily on Qubit Shield to future-proof my whole tech stack and data pipeline with its encryption technologies based on Quantum Key Distribution. I understand the threat of quantum cyber hacking in the near future, and I want my start-ups to be immune to this upcoming epidemic.</description>
+    </item>
+  </channel>
+</rss>
