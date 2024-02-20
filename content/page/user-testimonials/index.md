@@ -1,9 +1,8 @@
 ---
 title: "User Testimonials"
-description: "Bootstrap is bundled with tens of components that can be reused to provide a good user experience and user interactions in a web page."
+description: "See how some of our users utilize and value our products and services!"
 draft: false
 tags: ["Featured"]
-images: ["bootstrap-v5-new-logo.png"]
 keywords: ["bootstrap carousel","bootstrap","hugo bootstrap theme"]
 ---
 
