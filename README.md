@@ -1,5 +1,13 @@
 # hugo-mock-landing-page
 
+# Deployment 
+
+Github Actions Workflow Docs Feedback:
+
+Thumbs Up.
+
+"This doc was informative and the screenshots helped guide me through each step. The instructions were clear and helpful."
+
 - **Qubit Shield Landing Page**
 This repository is a landing page for a mock product called Qubit Shield that was created using Hugo and was originally adapted from a Boostrap Theme landing site. 
 
