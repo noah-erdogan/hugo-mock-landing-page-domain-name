@@ -41,3 +41,4 @@ Future Proofing (protect devices against future quantum decryption attacks)
 Published to Github Pages:
 https://noah-erdogan.github.io/hugo-mock-landing-page/
 https://qubitshield.site/
+published on qubitshield.site
