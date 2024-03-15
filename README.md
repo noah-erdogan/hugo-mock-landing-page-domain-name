@@ -8,6 +8,10 @@ Thumbs Up.
 
 "This doc was informative and the screenshots helped guide me through each step. The instructions were clear and helpful."
 
+**Workflow**
+
+This project includes a GitHub Actions workflow configuration for building and deploying a Hugo website to GitHub Pages in a YAML file. Any time new changes are pushed, a job is queued and then executed, and the changes are automatically updated at the specified url if the job is successful.
+
 - **Qubit Shield Landing Page**
 This repository is a landing page for a mock product called Qubit Shield that was created using Hugo and was originally adapted from a Boostrap Theme landing site. 
 
